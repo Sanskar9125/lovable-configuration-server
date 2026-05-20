@@ -4,7 +4,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:9010/lovable-account-db
+    url: jdbc:postgresql://localhost:9988/lovable-account-db
     username: distributedUser
     password: distributedPassword
     driver-class-name: org.postgresql.Driver
